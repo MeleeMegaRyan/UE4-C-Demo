@@ -4,9 +4,9 @@ How does Linker work in compiler?
 
 ctrl+F7, 只会编译，并不会Linking，只有build或者F5，编译完成后会linking
 
-![image](https://github.com/MeleeMegaRyan/UE4-C-Demo/blob/master/C%2B%2BLearningTrip2.0/Day2/1618_1.png)
+![image](https://github.com/MeleeMegaRyan/UE4-C-Demo/blob/master/C%2B%2BLearningTrip2.0/Day2/image/1618_1.png)
 
-![1620_1 (1)](C:\Users\Young\AppData\Local\Temp\1620_1 (1).png)
+![image](https://github.com/MeleeMegaRyan/UE4-C-Demo/blob/master/C%2B%2BLearningTrip2.0/Day2/image/1620_1.png)
 
 
 
@@ -23,13 +23,14 @@ inline void log(const char* message)
   std::cout<<message<<std::endl;
 }
 ```
-![1622_1](C:\Users\Young\AppData\Local\Temp\1622_1.png)
+![image](https://github.com/MeleeMegaRyan/UE4-C-Demo/blob/master/C%2B%2BLearningTrip2.0/Day2/image/1622_1.png)
 
-![1624_1](C:\Users\Young\AppData\Local\Temp\1624_1.png)
+![image](https://github.com/MeleeMegaRyan/UE4-C-Demo/blob/master/C%2B%2BLearningTrip2.0/Day2/image/1624_1.png)
 
-![1626_1](C:\Users\Young\AppData\Local\Temp\1626_1.png)
+![image](https://github.com/MeleeMegaRyan/UE4-C-Demo/blob/master/C%2B%2BLearningTrip2.0/Day2/image/1626_1.png)
+
 
 
 
 条件语句：
-![1628_1](C:\Users\Young\AppData\Local\Temp\1628_1.png)
+![image](https://github.com/MeleeMegaRyan/UE4-C-Demo/blob/master/C%2B%2BLearningTrip2.0/Day2/image/1628_1.png)
