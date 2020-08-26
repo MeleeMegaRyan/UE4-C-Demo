@@ -4,7 +4,7 @@ How does Linker work in compiler?
 
 ctrl+F7, 只会编译，并不会Linking，只有build或者F5，编译完成后会linking
 
-![1618_1 (1)](C:\Users\Young\AppData\Local\Temp\1618_1 (1).png)
+![image](https://github.com/MeleeMegaRyan/UE4-C-Demo/blob/master/C%2B%2BLearningTrip2.0/Day2/1618_1.png)
 
 ![1620_1 (1)](C:\Users\Young\AppData\Local\Temp\1620_1 (1).png)
 
