@@ -2,27 +2,27 @@
 
 ### How to setup C++ project better?
 
-![image]
+![image](https://github.com/MeleeMegaRyan/UE4-C-Demo/blob/master/C%2B%2BLearningTrip2.0/Day3/Image/1_1.jpg)
 
-![image]
+![image](https://github.com/MeleeMegaRyan/UE4-C-Demo/blob/master/C%2B%2BLearningTrip2.0/Day3/Image/1_2.jpg)
 
 才此处可进行生产文件夹而不是Filter，可以帮助你更好的管理文件
 
-![image]
+![image](https://github.com/MeleeMegaRyan/UE4-C-Demo/blob/master/C%2B%2BLearningTrip2.0/Day3/Image/1_3.jpg)
 
 可手动设置项目build的时候生产的文件的位置，以便于更好的找到想找的
 
-![image]
+![image](https://github.com/MeleeMegaRyan/UE4-C-Demo/blob/master/C%2B%2BLearningTrip2.0/Day3/Image/1_4.jpg)
 
 ### Control Flow in c++:contiune,break,return
 
-![image]
+![image](https://github.com/MeleeMegaRyan/UE4-C-Demo/blob/master/C%2B%2BLearningTrip2.0/Day3/Image/2_1.jpg)
 
-![image]
+![image](https://github.com/MeleeMegaRyan/UE4-C-Demo/blob/master/C%2B%2BLearningTrip2.0/Day3/Image/2_2.jpg)
 
-![image]
+![image](https://github.com/MeleeMegaRyan/UE4-C-Demo/blob/master/C%2B%2BLearningTrip2.0/Day3/Image/2_3.jpg)
 
-![image]
+![image](https://github.com/MeleeMegaRyan/UE4-C-Demo/blob/master/C%2B%2BLearningTrip2.0/Day3/Image/2_4.jpg)
 
 ## Pointers in c++
 
@@ -121,4 +121,4 @@ int main()
 
 static修饰的变量或者函数，仅仅存在于当前CPP(编译单元)下，LNK不会读取
 
-![image]
+![image](https://github.com/MeleeMegaRyan/UE4-C-Demo/blob/master/C%2B%2BLearningTrip2.0/Day3/Image/3_1.jpg)
